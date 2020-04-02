@@ -24,6 +24,8 @@
 - (void)develop
 {
     NSLog(@"develop新建分支");
+    
+     NSLog(@"develop-完成功能1");
 }
 
 @end
