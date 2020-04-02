@@ -26,6 +26,8 @@
     NSLog(@"develop新建分支");
     
      NSLog(@"develop-完成功能1");
+    
+    NSLog(@"develop-完成功能2");
 }
 
 @end
