@@ -28,6 +28,12 @@
      NSLog(@"develop-完成功能1");
     
     NSLog(@"develop-完成功能2");
+    
+
+    NSLog(@"A-完成版本2_功能2");
+
+    NSLog(@"B-完成版本2_功能1");
+
 }
 
 - (void)releaseBranch
@@ -35,6 +41,8 @@
     NSLog(@"releaseBranch新建分支");
     
     NSLog(@"releaseBranch测试完成");
+    
+    NSLog(@"A_修复版本2");
 }
 
 - (void)lineBranch
