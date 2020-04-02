@@ -37,4 +37,9 @@
     NSLog(@"releaseBranch测试完成");
 }
 
+- (void)lineBranch
+{
+    NSLog(@"lineBranch新建分支");
+}
+
 @end
