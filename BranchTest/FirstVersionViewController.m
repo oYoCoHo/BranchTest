@@ -42,7 +42,11 @@
     
     NSLog(@"releaseBranch测试完成");
     
+
     NSLog(@"B_修复版本2");
+
+    NSLog(@"A_修复版本2");
+
 }
 
 @end
