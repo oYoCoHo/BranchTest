@@ -28,6 +28,8 @@
      NSLog(@"develop-完成功能1");
     
     NSLog(@"develop-完成功能2");
+    
+    NSLog(@"B-完成版本2_功能1");
 }
 
 - (void)releaseBranch
