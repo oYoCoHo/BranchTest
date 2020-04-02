@@ -30,4 +30,9 @@
     NSLog(@"develop-完成功能2");
 }
 
+- (void)releaseBranch
+{
+    NSLog(@"releaseBranch新建分支");
+}
+
 @end
